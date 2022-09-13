@@ -10,8 +10,8 @@ angular.module('sortApp', [])
   $scope.sushi = [
     { name: 'attende1', fish: 'SARIN', tastiness: 67 },
     { name: 'finisher', fish: 'RIDHAAN', tastiness: 78 },
-    { name: 'runner', fish: 'SARAYU', tastiness: 80 },
-    { name: 'cricketer', fish: 'RIDDHI', tastiness: 83 },
+    { name: 'runner', fish: 'RIDDHI', tastiness: 80 },
+    { name: 'cricketer', fish: 'SARAYU', tastiness: 83 },
     
   ];
   
